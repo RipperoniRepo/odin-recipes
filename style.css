@@ -1,0 +1,50 @@
+.centered {
+    display: block;
+    margin-left:auto;
+    margin-right:auto;
+    text-align:center;
+}
+
+p, ul, ol {
+    color:rgb(40, 45, 58);
+    font-size: 18px;
+
+}
+
+.link {
+    color:rgb(40, 45, 58);
+
+}
+
+a:visited {
+    color: darkorchid;
+}
+
+body {
+    background-color:rgb(217, 226, 255);
+}
+
+h1 {
+    font-size: 60px;
+}
+
+
+h1, h2 {
+    color:rgb(214, 187, 33);
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color:rgb(40, 45, 58);
+}
+
+h2 {
+    font-size: 44px;
+    -webkit-text-stroke-width: 0.8px;
+}
+
+h4 {
+    font-size:30px;
+    color:rgb(214, 187, 33);
+    -webkit-text-stroke-color:rgb(55, 57, 61);
+    -webkit-text-stroke-width: 0.7px;
+
+}
+    
